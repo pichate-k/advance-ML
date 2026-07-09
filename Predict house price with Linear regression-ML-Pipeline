@@ -58,7 +58,7 @@ def save_pipeline_artifacts(model, pipeline_means, scaler_mean, scaler_std, file
 
 #----- Main Program - Train -----
 print("=== เริ่มต้นการ Training ===")
-X_train_raw, y_train_raw = load_train_data("Place your training data file path")
+X_train_raw, y_train_raw = load_train_data("Place your training data file path (raw.githubusercontent.com/...)")
 
 X_train_clean, imputer_means = fit_and_clean_data(X_train_raw)
 X_train_transformed, scaler_mean, scaler_std = fit_and_transform_data(X_train_clean)
@@ -70,3 +70,58 @@ evaluate_train(y_train_raw, y_train_pred)
 
 # save model 
 save_pipeline_artifacts(trained_model, imputer_means, scaler_mean, scaler_std)
+
+#----------------------------------------------------------------------------------------------------------
+
+# Testing pipeline 
+# Function Open Data
+def load_test_data(file_path):
+    df = pd.read_csv(file_path)
+    X = df.drop('Price', axis=1)
+    y = df['Price']
+    return X, y
+
+# Function Load Model & Pipeline
+def load_pipeline_artifacts(filepath="house_pipeline.pkl"):
+    with open(filepath, 'rb') as f:
+        artifacts = pickle.load(f)
+    print(f"โหลดโมเดลและโครงสร้าง Pipeline จากไฟล์: {filepath} สำเร็จ")
+    return artifacts
+
+# Function Custom Test Pipeline Function
+# Data Prep, Data Cleansing และ Data Transform for new data 
+def test_data_pipeline(X_test_raw, artifacts):
+    X_processed = X_test_raw.copy()
+    
+    # [Data Cleansing] fill missing data of Test with mean from Train (Don't calculate mean from Test data)
+    X_processed = X_processed.fillna(pd.Series(artifacts['imputer_means']))
+    
+    # [Data Transform] Scale data Test based on Mean and SD of Train data
+    X_processed = (X_processed - pd.Series(artifacts['scaler_mean'])) / pd.Series(artifacts['scaler_std'])
+    
+    return X_processed
+
+# Function Test & Evaluate
+def evaluate_test(y_true, y_pred):
+    rmse = np.sqrt(mean_squared_error(y_true, y_pred))
+    print("\n=====================================================================")
+    print(f"--- [Test Evaluation] ค่า RMSE ของโมเดลบนข้อมูลทดสอบจริง: {rmse:,.2f} บาท ---")
+    print("=====================================================================")
+
+#----- RUN TESTING PIPELINE -----
+print("\n=== เริ่มต้นกระบวนการฝั่ง Testing ===")
+# Load model and Statistic data from Training 
+pipeline_box = load_pipeline_artifacts("house_pipeline.pkl")
+
+# Open Testing Data (New raw data)
+# แทนที่ด้วยพาทไฟล์จริง เช่น 'test_data.csv'
+X_test_raw, y_test_raw = load_test_data("Place your training data file path (raw.githubusercontent.com/...)")
+
+# Transform data
+X_test_ready = test_data_pipeline(X_test_raw, pipeline_box)
+
+# Predict Test with model 
+y_test_pred = pipeline_box['model'].predict(X_test_ready)
+
+# Evaluate Testing data 
+evaluate_test(y_test_raw, y_test_pred)
