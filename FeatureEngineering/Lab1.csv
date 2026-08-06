@@ -1,0 +1,801 @@
+tenure,monthly_charges,contract_type,payment_method,churn
+24.0,89.9,Month-to-month,Mailed check,0
+24.0,29.9,Month-to-month,Bank transfer,0
+1.0,59.9,One year,Electronic check,0
+1.0,29.9,Month-to-month,Electronic check,0
+36.0,29.9,One year,Electronic check,0
+,119.9,Month-to-month,Bank transfer,0
+12.0,29.9,Month-to-month,Mailed check,0
+,29.9,Two year,Bank transfer,0
+48.0,59.9,Month-to-month,Mailed check,1
+1.0,119.9,Two year,Electronic check,0
+24.0,119.9,Month-to-month,Electronic check,0
+12.0,29.9,One year,Electronic check,0
+1.0,59.9,nan,Mailed check,0
+48.0,89.9,nan,Electronic check,0
+,29.9,Two year,Electronic check,1
+12.0,29.9,One year,Mailed check,1
+1.0,89.9,One year,Bank transfer,1
+36.0,29.9,Month-to-month,Bank transfer,1
+48.0,29.9,Month-to-month,Bank transfer,0
+12.0,29.9,Month-to-month,Electronic check,0
+36.0,89.9,One year,Mailed check,0
+24.0,59.9,One year,Bank transfer,0
+1.0,59.9,One year,Bank transfer,0
+1.0,59.9,One year,Mailed check,0
+1.0,119.9,Month-to-month,Bank transfer,0
+,29.9,Two year,Electronic check,0
+24.0,89.9,Month-to-month,Electronic check,1
+24.0,119.9,One year,Electronic check,0
+48.0,,One year,Mailed check,0
+24.0,59.9,Month-to-month,Electronic check,0
+,29.9,Month-to-month,Bank transfer,0
+,119.9,One year,Bank transfer,1
+24.0,89.9,Month-to-month,Mailed check,1
+12.0,29.9,Month-to-month,Bank transfer,0
+,59.9,Month-to-month,Electronic check,0
+12.0,59.9,Month-to-month,Bank transfer,0
+,59.9,Month-to-month,Mailed check,1
+,119.9,nan,Electronic check,0
+24.0,59.9,nan,Bank transfer,0
+,29.9,Month-to-month,Bank transfer,1
+1.0,,Month-to-month,Mailed check,0
+1.0,29.9,Month-to-month,Mailed check,0
+48.0,29.9,Month-to-month,Bank transfer,1
+,59.9,Two year,Bank transfer,0
+1.0,89.9,Month-to-month,Electronic check,0
+12.0,,Month-to-month,Bank transfer,0
+36.0,119.9,One year,Bank transfer,0
+1.0,29.9,One year,Bank transfer,1
+48.0,,One year,Bank transfer,0
+24.0,59.9,Two year,Bank transfer,0
+36.0,59.9,Month-to-month,Mailed check,0
+24.0,59.9,Month-to-month,Electronic check,1
+1.0,89.9,One year,Bank transfer,0
+12.0,,nan,Electronic check,0
+24.0,119.9,Two year,Mailed check,1
+1.0,89.9,One year,Mailed check,0
+24.0,119.9,One year,Bank transfer,0
+1.0,89.9,Month-to-month,Electronic check,0
+1.0,59.9,Month-to-month,Bank transfer,0
+1.0,29.9,One year,Mailed check,0
+24.0,59.9,One year,Mailed check,0
+,119.9,Month-to-month,Mailed check,1
+,29.9,Month-to-month,Bank transfer,0
+24.0,29.9,Month-to-month,Mailed check,0
+24.0,119.9,Two year,Mailed check,0
+36.0,29.9,One year,Bank transfer,0
+12.0,29.9,One year,Electronic check,0
+1.0,59.9,Month-to-month,Mailed check,0
+1.0,59.9,Month-to-month,Bank transfer,0
+36.0,89.9,Month-to-month,Electronic check,1
+,59.9,One year,Electronic check,0
+36.0,,One year,Electronic check,1
+36.0,29.9,Month-to-month,Electronic check,0
+24.0,29.9,One year,Bank transfer,0
+36.0,89.9,nan,Bank transfer,0
+12.0,89.9,One year,Electronic check,0
+36.0,29.9,Month-to-month,Bank transfer,1
+24.0,89.9,Month-to-month,Mailed check,0
+48.0,89.9,nan,Bank transfer,1
+1.0,119.9,One year,Mailed check,0
+48.0,89.9,Month-to-month,Electronic check,0
+36.0,,Month-to-month,Electronic check,1
+36.0,29.9,One year,Mailed check,1
+24.0,29.9,Month-to-month,Bank transfer,1
+,29.9,nan,Bank transfer,0
+12.0,59.9,Month-to-month,Bank transfer,0
+12.0,29.9,Month-to-month,Mailed check,0
+12.0,29.9,One year,Electronic check,0
+1.0,119.9,One year,Electronic check,0
+,29.9,Month-to-month,Mailed check,1
+1.0,89.9,Month-to-month,Electronic check,1
+36.0,29.9,Month-to-month,Bank transfer,1
+36.0,29.9,Month-to-month,Electronic check,0
+12.0,29.9,One year,Bank transfer,0
+1.0,,One year,Electronic check,1
+,29.9,One year,Mailed check,0
+12.0,59.9,Month-to-month,Mailed check,0
+24.0,59.9,Month-to-month,Mailed check,0
+48.0,29.9,One year,Bank transfer,0
+36.0,59.9,One year,Bank transfer,0
+36.0,29.9,Month-to-month,Bank transfer,0
+12.0,29.9,Month-to-month,Mailed check,1
+24.0,59.9,Two year,Mailed check,0
+12.0,59.9,Month-to-month,Mailed check,0
+,59.9,One year,Electronic check,0
+12.0,29.9,Month-to-month,Mailed check,0
+1.0,89.9,One year,Bank transfer,0
+1.0,,Two year,Bank transfer,0
+,119.9,Month-to-month,Bank transfer,0
+12.0,59.9,Month-to-month,Electronic check,1
+48.0,89.9,One year,Mailed check,0
+,29.9,One year,Mailed check,0
+48.0,,Month-to-month,Bank transfer,1
+12.0,59.9,Month-to-month,Mailed check,0
+,59.9,Month-to-month,Electronic check,1
+48.0,,nan,Bank transfer,0
+12.0,89.9,One year,Electronic check,0
+,59.9,Month-to-month,Bank transfer,0
+48.0,29.9,One year,Electronic check,0
+12.0,59.9,Month-to-month,Electronic check,0
+12.0,29.9,One year,Bank transfer,0
+48.0,119.9,Month-to-month,Bank transfer,0
+,89.9,Two year,Bank transfer,0
+12.0,29.9,Month-to-month,Electronic check,0
+24.0,29.9,Month-to-month,Mailed check,1
+12.0,59.9,Month-to-month,Bank transfer,0
+12.0,,Month-to-month,Mailed check,0
+36.0,29.9,Month-to-month,Mailed check,1
+12.0,29.9,One year,Bank transfer,1
+36.0,59.9,Month-to-month,Electronic check,0
+12.0,119.9,One year,Mailed check,0
+12.0,,Month-to-month,Bank transfer,0
+1.0,59.9,Month-to-month,Mailed check,0
+,59.9,Month-to-month,Mailed check,1
+1.0,29.9,Month-to-month,Electronic check,0
+24.0,89.9,Month-to-month,Electronic check,0
+24.0,29.9,Month-to-month,Bank transfer,0
+1.0,59.9,Month-to-month,Mailed check,0
+,59.9,Month-to-month,Mailed check,1
+1.0,29.9,Two year,Bank transfer,0
+36.0,59.9,One year,Bank transfer,0
+1.0,119.9,Month-to-month,Mailed check,1
+48.0,29.9,nan,Mailed check,0
+,,Month-to-month,Mailed check,0
+36.0,29.9,One year,Bank transfer,1
+12.0,,Month-to-month,Bank transfer,0
+,59.9,Month-to-month,Electronic check,0
+24.0,59.9,Month-to-month,Electronic check,0
+12.0,29.9,Month-to-month,Bank transfer,0
+,29.9,One year,Mailed check,0
+12.0,59.9,Two year,Bank transfer,0
+48.0,59.9,nan,Mailed check,0
+1.0,59.9,One year,Mailed check,0
+,89.9,One year,Electronic check,1
+12.0,59.9,Month-to-month,Bank transfer,0
+24.0,59.9,One year,Bank transfer,1
+,29.9,Two year,Bank transfer,0
+,89.9,Month-to-month,Mailed check,0
+1.0,29.9,Two year,Bank transfer,0
+,59.9,Month-to-month,Electronic check,0
+24.0,59.9,One year,Mailed check,1
+,29.9,One year,Bank transfer,0
+24.0,59.9,nan,Bank transfer,0
+12.0,89.9,Month-to-month,Electronic check,1
+36.0,59.9,Month-to-month,Bank transfer,0
+24.0,59.9,One year,Bank transfer,0
+36.0,59.9,One year,Bank transfer,0
+24.0,89.9,Month-to-month,Electronic check,1
+12.0,59.9,nan,Mailed check,0
+48.0,59.9,nan,Electronic check,1
+48.0,59.9,Month-to-month,Electronic check,0
+,29.9,One year,Electronic check,0
+12.0,89.9,nan,Electronic check,0
+36.0,,Month-to-month,Mailed check,0
+1.0,59.9,Month-to-month,Electronic check,0
+12.0,89.9,Month-to-month,Mailed check,0
+,59.9,Month-to-month,Mailed check,0
+,59.9,Month-to-month,Mailed check,0
+,29.9,Month-to-month,Mailed check,0
+36.0,59.9,Month-to-month,Bank transfer,1
+,,Month-to-month,Mailed check,1
+24.0,29.9,Month-to-month,Mailed check,0
+1.0,119.9,Month-to-month,Mailed check,0
+1.0,59.9,Month-to-month,Electronic check,0
+12.0,29.9,nan,Bank transfer,0
+1.0,59.9,Month-to-month,Bank transfer,0
+12.0,29.9,One year,Bank transfer,0
+,29.9,Month-to-month,Mailed check,0
+48.0,89.9,Month-to-month,Electronic check,0
+,119.9,Month-to-month,Electronic check,0
+36.0,119.9,nan,Bank transfer,0
+24.0,59.9,One year,Electronic check,1
+12.0,89.9,Month-to-month,Mailed check,0
+12.0,29.9,One year,Bank transfer,0
+36.0,59.9,Two year,Mailed check,1
+,29.9,One year,Mailed check,0
+1.0,59.9,Month-to-month,Mailed check,0
+48.0,59.9,One year,Mailed check,0
+1.0,119.9,One year,Bank transfer,0
+36.0,29.9,Month-to-month,Electronic check,1
+24.0,89.9,nan,Electronic check,0
+12.0,,Month-to-month,Electronic check,1
+36.0,59.9,Month-to-month,Mailed check,0
+1.0,29.9,nan,Electronic check,1
+,,One year,Electronic check,0
+24.0,29.9,Two year,Mailed check,0
+12.0,59.9,Month-to-month,Mailed check,0
+24.0,59.9,Month-to-month,Electronic check,0
+12.0,59.9,Month-to-month,Bank transfer,1
+24.0,119.9,nan,Mailed check,0
+,59.9,Month-to-month,Bank transfer,0
+48.0,29.9,nan,Mailed check,0
+24.0,119.9,Month-to-month,Bank transfer,1
+24.0,59.9,nan,Bank transfer,0
+1.0,119.9,Month-to-month,Bank transfer,0
+36.0,29.9,Month-to-month,Mailed check,0
+48.0,59.9,Month-to-month,Bank transfer,0
+24.0,119.9,nan,Bank transfer,0
+36.0,59.9,Month-to-month,Bank transfer,0
+48.0,119.9,One year,Bank transfer,0
+1.0,29.9,Two year,Bank transfer,0
+36.0,59.9,Month-to-month,Mailed check,0
+,,nan,Mailed check,0
+1.0,59.9,Month-to-month,Bank transfer,0
+48.0,59.9,Two year,Mailed check,0
+,,Month-to-month,Bank transfer,0
+1.0,119.9,Month-to-month,Bank transfer,0
+24.0,29.9,Month-to-month,Electronic check,1
+24.0,59.9,Month-to-month,Electronic check,0
+36.0,119.9,Month-to-month,Mailed check,1
+12.0,29.9,Two year,Bank transfer,0
+12.0,59.9,Month-to-month,Mailed check,0
+12.0,29.9,Month-to-month,Electronic check,0
+24.0,119.9,Month-to-month,Mailed check,0
+1.0,119.9,Month-to-month,Electronic check,0
+,119.9,nan,Bank transfer,0
+,29.9,Month-to-month,Electronic check,0
+1.0,,Month-to-month,Electronic check,0
+36.0,,One year,Electronic check,0
+,59.9,One year,Bank transfer,1
+36.0,59.9,One year,Mailed check,0
+24.0,,Month-to-month,Electronic check,0
+48.0,119.9,Month-to-month,Bank transfer,1
+1.0,,Month-to-month,Electronic check,0
+12.0,,nan,Bank transfer,0
+12.0,29.9,nan,Bank transfer,0
+12.0,119.9,One year,Mailed check,0
+48.0,29.9,One year,Mailed check,0
+,89.9,Month-to-month,Electronic check,0
+24.0,,nan,Bank transfer,0
+1.0,,One year,Bank transfer,1
+24.0,119.9,Month-to-month,Mailed check,0
+12.0,59.9,One year,Electronic check,0
+24.0,,Month-to-month,Mailed check,1
+1.0,89.9,nan,Mailed check,1
+12.0,89.9,nan,Electronic check,0
+,59.9,Month-to-month,Electronic check,0
+24.0,29.9,One year,Electronic check,1
+24.0,59.9,Month-to-month,Electronic check,0
+36.0,59.9,One year,Electronic check,1
+,119.9,Two year,Bank transfer,0
+,59.9,One year,Mailed check,0
+48.0,59.9,Month-to-month,Bank transfer,0
+12.0,,Two year,Electronic check,0
+12.0,119.9,Month-to-month,Bank transfer,0
+,89.9,One year,Electronic check,0
+24.0,89.9,Month-to-month,Mailed check,1
+12.0,89.9,Month-to-month,Electronic check,1
+1.0,59.9,Two year,Bank transfer,1
+12.0,89.9,One year,Mailed check,0
+12.0,59.9,One year,Bank transfer,0
+,29.9,One year,Bank transfer,0
+,29.9,Two year,Mailed check,0
+48.0,,nan,Electronic check,0
+36.0,59.9,One year,Bank transfer,0
+,119.9,Month-to-month,Mailed check,0
+1.0,59.9,Month-to-month,Mailed check,0
+48.0,29.9,Two year,Electronic check,1
+1.0,89.9,Month-to-month,Mailed check,1
+1.0,,Month-to-month,Electronic check,0
+48.0,,One year,Mailed check,0
+12.0,119.9,Month-to-month,Bank transfer,0
+24.0,,Month-to-month,Electronic check,0
+1.0,29.9,Month-to-month,Mailed check,1
+1.0,59.9,Month-to-month,Bank transfer,0
+1.0,59.9,Month-to-month,Bank transfer,0
+12.0,119.9,One year,Mailed check,0
+24.0,59.9,One year,Electronic check,1
+12.0,89.9,Month-to-month,Bank transfer,0
+,89.9,Month-to-month,Electronic check,0
+12.0,29.9,Month-to-month,Mailed check,0
+36.0,59.9,Month-to-month,Mailed check,0
+48.0,59.9,One year,Bank transfer,0
+,119.9,One year,Bank transfer,0
+48.0,89.9,Month-to-month,Mailed check,0
+12.0,29.9,One year,Electronic check,1
+12.0,59.9,Month-to-month,Mailed check,0
+48.0,89.9,nan,Bank transfer,0
+12.0,29.9,Month-to-month,Mailed check,0
+12.0,89.9,Month-to-month,Bank transfer,0
+36.0,59.9,nan,Bank transfer,0
+12.0,89.9,One year,Bank transfer,0
+1.0,59.9,One year,Mailed check,0
+24.0,59.9,One year,Bank transfer,0
+1.0,89.9,Month-to-month,Electronic check,0
+24.0,29.9,One year,Mailed check,0
+,59.9,One year,Electronic check,0
+24.0,59.9,Month-to-month,Mailed check,0
+36.0,29.9,Month-to-month,Bank transfer,0
+12.0,89.9,One year,Bank transfer,0
+36.0,59.9,One year,Bank transfer,0
+36.0,59.9,Month-to-month,Electronic check,0
+,59.9,Month-to-month,Mailed check,1
+12.0,29.9,Month-to-month,Bank transfer,0
+12.0,59.9,Month-to-month,Mailed check,0
+12.0,,Two year,Electronic check,0
+24.0,29.9,Month-to-month,Bank transfer,0
+24.0,89.9,One year,Bank transfer,0
+,59.9,One year,Electronic check,1
+,119.9,One year,Mailed check,0
+12.0,59.9,One year,Bank transfer,0
+1.0,29.9,Month-to-month,Bank transfer,1
+,29.9,Month-to-month,Bank transfer,1
+24.0,89.9,Month-to-month,Mailed check,0
+48.0,29.9,Month-to-month,Mailed check,1
+36.0,119.9,nan,Mailed check,1
+36.0,119.9,Month-to-month,Bank transfer,0
+,29.9,Month-to-month,Bank transfer,0
+24.0,59.9,nan,Bank transfer,0
+1.0,89.9,Month-to-month,Mailed check,0
+1.0,29.9,One year,Mailed check,1
+,29.9,Month-to-month,Mailed check,0
+12.0,119.9,Month-to-month,Mailed check,0
+12.0,89.9,Month-to-month,Mailed check,0
+36.0,89.9,One year,Bank transfer,0
+24.0,29.9,One year,Bank transfer,0
+48.0,29.9,Month-to-month,Mailed check,1
+48.0,59.9,Month-to-month,Bank transfer,0
+24.0,29.9,One year,Electronic check,0
+1.0,,Two year,Mailed check,0
+,59.9,Two year,Bank transfer,1
+12.0,119.9,nan,Bank transfer,1
+24.0,59.9,Month-to-month,Electronic check,0
+,29.9,One year,Bank transfer,1
+,29.9,One year,Bank transfer,0
+24.0,29.9,Month-to-month,Electronic check,0
+,119.9,One year,Electronic check,1
+36.0,29.9,One year,Electronic check,1
+24.0,29.9,Month-to-month,Mailed check,0
+24.0,,One year,Electronic check,0
+1.0,59.9,Month-to-month,Bank transfer,0
+24.0,59.9,Month-to-month,Mailed check,0
+24.0,59.9,One year,Bank transfer,0
+24.0,59.9,One year,Mailed check,0
+12.0,119.9,One year,Bank transfer,0
+,,One year,Electronic check,0
+1.0,59.9,Month-to-month,Mailed check,1
+1.0,59.9,Month-to-month,Electronic check,0
+36.0,,Month-to-month,Bank transfer,1
+24.0,89.9,One year,Electronic check,0
+,89.9,One year,Electronic check,0
+12.0,29.9,Month-to-month,Mailed check,0
+,29.9,Month-to-month,Electronic check,0
+1.0,59.9,Month-to-month,Bank transfer,0
+,89.9,One year,Electronic check,0
+,59.9,Month-to-month,Bank transfer,0
+,59.9,One year,Bank transfer,0
+1.0,89.9,Two year,Mailed check,0
+,59.9,nan,Electronic check,0
+36.0,,Month-to-month,Electronic check,0
+24.0,59.9,Month-to-month,Mailed check,0
+12.0,89.9,nan,Electronic check,1
+,89.9,Month-to-month,Electronic check,0
+1.0,29.9,Month-to-month,Electronic check,1
+,89.9,One year,Bank transfer,0
+12.0,29.9,Month-to-month,Mailed check,0
+24.0,59.9,Two year,Electronic check,1
+24.0,29.9,Month-to-month,Electronic check,1
+,59.9,Month-to-month,Bank transfer,0
+1.0,59.9,One year,Bank transfer,1
+,119.9,Month-to-month,Electronic check,0
+1.0,59.9,Two year,Bank transfer,0
+,119.9,Month-to-month,Electronic check,0
+,59.9,One year,Bank transfer,1
+48.0,29.9,Month-to-month,Mailed check,0
+1.0,89.9,Month-to-month,Electronic check,0
+12.0,89.9,Month-to-month,Mailed check,0
+36.0,29.9,Two year,Mailed check,1
+1.0,59.9,Month-to-month,Bank transfer,0
+,59.9,nan,Electronic check,0
+1.0,29.9,Month-to-month,Bank transfer,1
+36.0,59.9,Month-to-month,Mailed check,1
+24.0,29.9,Month-to-month,Electronic check,0
+12.0,59.9,One year,Mailed check,1
+36.0,89.9,One year,Electronic check,0
+,89.9,Month-to-month,Mailed check,0
+48.0,89.9,Month-to-month,Mailed check,0
+36.0,,Month-to-month,Mailed check,0
+36.0,29.9,One year,Mailed check,1
+24.0,59.9,One year,Bank transfer,1
+12.0,29.9,Month-to-month,Mailed check,0
+1.0,,One year,Mailed check,1
+1.0,59.9,One year,Bank transfer,0
+24.0,89.9,Two year,Bank transfer,1
+36.0,59.9,One year,Mailed check,0
+12.0,29.9,Month-to-month,Bank transfer,1
+24.0,29.9,One year,Mailed check,1
+36.0,,Month-to-month,Mailed check,0
+1.0,,Two year,Electronic check,1
+36.0,59.9,One year,Electronic check,0
+,89.9,One year,Mailed check,0
+48.0,89.9,Month-to-month,Mailed check,0
+1.0,59.9,Month-to-month,Bank transfer,0
+12.0,89.9,Month-to-month,Electronic check,0
+24.0,59.9,nan,Electronic check,0
+24.0,29.9,Month-to-month,Electronic check,0
+1.0,59.9,Month-to-month,Bank transfer,0
+,,One year,Electronic check,0
+,29.9,One year,Mailed check,0
+1.0,29.9,Month-to-month,Electronic check,0
+12.0,59.9,One year,Electronic check,1
+1.0,59.9,Month-to-month,Electronic check,0
+24.0,59.9,Month-to-month,Electronic check,0
+,89.9,Month-to-month,Bank transfer,0
+12.0,59.9,nan,Bank transfer,0
+12.0,89.9,Month-to-month,Bank transfer,0
+24.0,89.9,Month-to-month,Mailed check,1
+24.0,59.9,Month-to-month,Mailed check,1
+,59.9,nan,Mailed check,1
+1.0,59.9,One year,Bank transfer,0
+12.0,29.9,One year,Mailed check,1
+1.0,59.9,One year,Mailed check,0
+24.0,59.9,Two year,Electronic check,0
+48.0,29.9,Two year,Mailed check,0
+,59.9,One year,Mailed check,0
+,29.9,nan,Electronic check,0
+12.0,89.9,Month-to-month,Mailed check,0
+24.0,,Two year,Electronic check,0
+,119.9,Month-to-month,Mailed check,0
+48.0,,One year,Bank transfer,0
+12.0,29.9,Month-to-month,Electronic check,0
+36.0,29.9,Month-to-month,Mailed check,0
+,29.9,Month-to-month,Bank transfer,0
+1.0,29.9,Month-to-month,Mailed check,0
+36.0,119.9,One year,Bank transfer,0
+12.0,89.9,nan,Electronic check,0
+12.0,29.9,One year,Electronic check,0
+,,One year,Bank transfer,0
+12.0,89.9,Month-to-month,Bank transfer,0
+,29.9,Month-to-month,Bank transfer,0
+36.0,119.9,Month-to-month,Bank transfer,1
+24.0,89.9,Month-to-month,Bank transfer,0
+,89.9,nan,Electronic check,0
+12.0,59.9,Month-to-month,Mailed check,0
+1.0,59.9,nan,Mailed check,0
+1.0,89.9,One year,Bank transfer,0
+,29.9,One year,Electronic check,0
+48.0,29.9,Month-to-month,Electronic check,0
+48.0,29.9,One year,Electronic check,0
+48.0,119.9,Month-to-month,Bank transfer,0
+48.0,59.9,Month-to-month,Mailed check,0
+1.0,89.9,Month-to-month,Mailed check,0
+24.0,59.9,One year,Electronic check,1
+12.0,59.9,One year,Bank transfer,1
+24.0,59.9,One year,Electronic check,0
+24.0,29.9,Month-to-month,Bank transfer,0
+1.0,59.9,One year,Electronic check,0
+,89.9,Month-to-month,Mailed check,0
+24.0,29.9,Two year,Electronic check,0
+12.0,29.9,Month-to-month,Mailed check,0
+,,nan,Electronic check,0
+12.0,29.9,One year,Bank transfer,1
+12.0,29.9,Month-to-month,Electronic check,1
+,59.9,Month-to-month,Bank transfer,0
+24.0,,Month-to-month,Mailed check,1
+36.0,29.9,One year,Electronic check,1
+1.0,29.9,One year,Mailed check,0
+24.0,59.9,Month-to-month,Mailed check,0
+1.0,89.9,One year,Mailed check,1
+12.0,29.9,Month-to-month,Mailed check,0
+12.0,29.9,Month-to-month,Bank transfer,0
+1.0,119.9,Month-to-month,Bank transfer,0
+12.0,59.9,Month-to-month,Bank transfer,0
+,,Month-to-month,Electronic check,0
+48.0,119.9,Month-to-month,Bank transfer,0
+,29.9,nan,Mailed check,1
+1.0,59.9,One year,Mailed check,0
+12.0,29.9,Month-to-month,Bank transfer,0
+12.0,119.9,Two year,Bank transfer,0
+1.0,59.9,Month-to-month,Bank transfer,0
+,,One year,Mailed check,1
+1.0,59.9,Month-to-month,Electronic check,1
+12.0,59.9,Month-to-month,Bank transfer,0
+24.0,29.9,Month-to-month,Mailed check,0
+,89.9,One year,Bank transfer,0
+1.0,89.9,Month-to-month,Mailed check,0
+48.0,29.9,One year,Bank transfer,0
+12.0,119.9,One year,Electronic check,0
+24.0,29.9,Month-to-month,Mailed check,0
+1.0,29.9,Two year,Electronic check,0
+36.0,89.9,Month-to-month,Bank transfer,1
+12.0,29.9,Month-to-month,Electronic check,0
+24.0,29.9,One year,Electronic check,1
+,59.9,Month-to-month,Mailed check,0
+,29.9,Month-to-month,Bank transfer,0
+36.0,29.9,Month-to-month,Bank transfer,1
+1.0,59.9,Month-to-month,Bank transfer,1
+24.0,29.9,Month-to-month,Electronic check,1
+12.0,59.9,One year,Electronic check,0
+48.0,59.9,One year,Bank transfer,1
+,59.9,Two year,Mailed check,0
+24.0,29.9,One year,Bank transfer,0
+24.0,59.9,One year,Bank transfer,0
+1.0,89.9,One year,Bank transfer,1
+12.0,29.9,Month-to-month,Electronic check,0
+24.0,119.9,One year,Mailed check,0
+24.0,29.9,Month-to-month,Electronic check,0
+1.0,29.9,Month-to-month,Bank transfer,0
+36.0,29.9,Month-to-month,Electronic check,0
+12.0,29.9,One year,Mailed check,0
+24.0,29.9,Month-to-month,Bank transfer,0
+36.0,59.9,One year,Mailed check,0
+24.0,119.9,Month-to-month,Electronic check,0
+36.0,29.9,Month-to-month,Electronic check,0
+24.0,59.9,Month-to-month,Bank transfer,0
+,59.9,Month-to-month,Electronic check,0
+12.0,59.9,One year,Bank transfer,0
+12.0,119.9,One year,Electronic check,0
+12.0,29.9,Month-to-month,Electronic check,0
+24.0,29.9,One year,Mailed check,0
+,59.9,One year,Electronic check,0
+12.0,119.9,One year,Electronic check,0
+,29.9,Month-to-month,Mailed check,0
+1.0,59.9,Month-to-month,Electronic check,0
+24.0,89.9,Month-to-month,Electronic check,0
+24.0,59.9,One year,Electronic check,0
+1.0,89.9,One year,Mailed check,0
+1.0,89.9,One year,Electronic check,0
+36.0,59.9,One year,Electronic check,0
+48.0,29.9,Two year,Bank transfer,1
+12.0,89.9,Month-to-month,Electronic check,0
+1.0,29.9,One year,Bank transfer,0
+12.0,29.9,Month-to-month,Electronic check,0
+12.0,89.9,Month-to-month,Electronic check,1
+12.0,119.9,Month-to-month,Bank transfer,0
+1.0,59.9,One year,Mailed check,0
+,119.9,One year,Bank transfer,1
+1.0,29.9,One year,Bank transfer,1
+36.0,59.9,One year,Bank transfer,0
+36.0,89.9,nan,Electronic check,0
+12.0,119.9,Month-to-month,Electronic check,0
+1.0,59.9,nan,Electronic check,0
+24.0,59.9,Month-to-month,Mailed check,0
+1.0,119.9,Month-to-month,Mailed check,0
+1.0,29.9,nan,Mailed check,0
+,119.9,One year,Bank transfer,0
+1.0,89.9,Two year,Mailed check,0
+1.0,119.9,Month-to-month,Mailed check,1
+1.0,89.9,Month-to-month,Bank transfer,0
+48.0,29.9,Month-to-month,Electronic check,0
+,89.9,Month-to-month,Electronic check,0
+,59.9,Month-to-month,Electronic check,0
+1.0,59.9,One year,Bank transfer,0
+24.0,29.9,Month-to-month,Electronic check,0
+24.0,59.9,Month-to-month,Mailed check,1
+,29.9,One year,Electronic check,0
+48.0,29.9,One year,Electronic check,0
+12.0,119.9,One year,Electronic check,1
+24.0,59.9,Month-to-month,Mailed check,0
+12.0,59.9,One year,Mailed check,0
+36.0,29.9,One year,Mailed check,0
+36.0,89.9,Two year,Bank transfer,1
+24.0,59.9,One year,Electronic check,0
+,119.9,One year,Mailed check,0
+36.0,59.9,One year,Bank transfer,0
+48.0,119.9,Month-to-month,Electronic check,0
+12.0,29.9,One year,Bank transfer,1
+48.0,29.9,Month-to-month,Electronic check,0
+12.0,59.9,One year,Bank transfer,0
+,29.9,Month-to-month,Mailed check,0
+12.0,89.9,Month-to-month,Mailed check,0
+48.0,89.9,Month-to-month,Bank transfer,0
+1.0,29.9,Month-to-month,Electronic check,0
+1.0,29.9,One year,Mailed check,0
+1.0,59.9,Month-to-month,Mailed check,1
+12.0,29.9,One year,Bank transfer,0
+12.0,29.9,Two year,Mailed check,1
+1.0,59.9,One year,Mailed check,1
+24.0,59.9,nan,Bank transfer,0
+1.0,119.9,One year,Mailed check,0
+,,One year,Mailed check,0
+,59.9,Month-to-month,Electronic check,0
+,89.9,One year,Bank transfer,0
+24.0,29.9,One year,Mailed check,1
+,59.9,One year,Electronic check,0
+12.0,59.9,Month-to-month,Mailed check,0
+12.0,59.9,nan,Bank transfer,0
+12.0,59.9,One year,Electronic check,0
+,29.9,Two year,Electronic check,0
+12.0,89.9,One year,Mailed check,0
+24.0,29.9,nan,Bank transfer,0
+24.0,59.9,Month-to-month,Bank transfer,0
+24.0,,One year,Bank transfer,0
+48.0,29.9,One year,Bank transfer,1
+12.0,119.9,Month-to-month,Bank transfer,1
+36.0,89.9,Month-to-month,Mailed check,0
+48.0,89.9,One year,Electronic check,0
+,29.9,nan,Electronic check,0
+12.0,29.9,One year,Bank transfer,0
+1.0,29.9,One year,Mailed check,1
+,59.9,nan,Electronic check,1
+24.0,29.9,Month-to-month,Electronic check,0
+,,Month-to-month,Electronic check,0
+,89.9,Month-to-month,Bank transfer,0
+24.0,,Month-to-month,Electronic check,0
+12.0,,One year,Bank transfer,0
+24.0,59.9,One year,Bank transfer,0
+24.0,29.9,Month-to-month,Bank transfer,0
+36.0,119.9,One year,Bank transfer,0
+12.0,89.9,Month-to-month,Mailed check,0
+,59.9,Two year,Bank transfer,0
+1.0,119.9,nan,Mailed check,0
+1.0,59.9,Month-to-month,Mailed check,0
+36.0,,Month-to-month,Electronic check,0
+,59.9,One year,Mailed check,0
+,89.9,One year,Mailed check,0
+24.0,89.9,Month-to-month,Mailed check,0
+,89.9,One year,Mailed check,1
+48.0,59.9,One year,Electronic check,0
+1.0,89.9,Two year,Bank transfer,0
+,59.9,Month-to-month,Bank transfer,0
+1.0,59.9,Month-to-month,Mailed check,1
+24.0,29.9,One year,Mailed check,0
+48.0,59.9,Month-to-month,Bank transfer,1
+36.0,59.9,Month-to-month,Mailed check,0
+,59.9,Month-to-month,Electronic check,1
+1.0,119.9,Month-to-month,Mailed check,0
+24.0,89.9,One year,Mailed check,0
+12.0,,One year,Mailed check,1
+12.0,29.9,One year,Electronic check,0
+12.0,89.9,Month-to-month,Mailed check,0
+,59.9,Two year,Electronic check,0
+,119.9,Month-to-month,Bank transfer,1
+24.0,29.9,nan,Bank transfer,0
+24.0,59.9,One year,Electronic check,1
+24.0,29.9,Month-to-month,Electronic check,0
+24.0,89.9,One year,Mailed check,0
+12.0,119.9,Two year,Electronic check,0
+,59.9,nan,Bank transfer,0
+48.0,119.9,Month-to-month,Bank transfer,0
+12.0,,Two year,Mailed check,1
+24.0,89.9,Month-to-month,Electronic check,0
+24.0,89.9,Month-to-month,Electronic check,0
+36.0,119.9,Month-to-month,Mailed check,0
+24.0,89.9,Month-to-month,Bank transfer,0
+,,Month-to-month,Mailed check,1
+,119.9,nan,Bank transfer,0
+12.0,29.9,Month-to-month,Electronic check,1
+12.0,59.9,Month-to-month,Mailed check,0
+36.0,59.9,nan,Mailed check,1
+24.0,119.9,Month-to-month,Mailed check,0
+24.0,29.9,Month-to-month,Mailed check,0
+48.0,59.9,Month-to-month,Electronic check,0
+,29.9,Month-to-month,Mailed check,1
+,29.9,Two year,Electronic check,0
+36.0,59.9,One year,Electronic check,0
+12.0,59.9,Month-to-month,Mailed check,0
+,89.9,Month-to-month,Electronic check,0
+12.0,89.9,nan,Mailed check,0
+12.0,59.9,Month-to-month,Electronic check,1
+12.0,59.9,Month-to-month,Bank transfer,1
+48.0,89.9,Two year,Electronic check,0
+,59.9,Month-to-month,Electronic check,0
+1.0,59.9,Month-to-month,Bank transfer,0
+36.0,89.9,One year,Electronic check,1
+48.0,89.9,One year,Mailed check,0
+24.0,119.9,One year,Electronic check,1
+36.0,89.9,Month-to-month,Mailed check,0
+24.0,29.9,One year,Mailed check,1
+24.0,29.9,Month-to-month,Bank transfer,0
+1.0,29.9,One year,Bank transfer,0
+36.0,29.9,Month-to-month,Mailed check,0
+24.0,,Month-to-month,Electronic check,0
+48.0,119.9,Two year,Mailed check,0
+12.0,119.9,Month-to-month,Electronic check,1
+1.0,59.9,Month-to-month,Bank transfer,0
+12.0,29.9,nan,Electronic check,0
+,89.9,Month-to-month,Electronic check,1
+24.0,,Month-to-month,Electronic check,1
+36.0,29.9,One year,Electronic check,0
+12.0,119.9,One year,Bank transfer,0
+12.0,,Month-to-month,Electronic check,0
+24.0,29.9,Month-to-month,Electronic check,0
+24.0,89.9,Month-to-month,Electronic check,0
+1.0,,Two year,Bank transfer,0
+1.0,59.9,Month-to-month,Bank transfer,0
+1.0,119.9,Month-to-month,Electronic check,0
+12.0,59.9,Month-to-month,Bank transfer,0
+24.0,29.9,One year,Mailed check,1
+12.0,119.9,One year,Bank transfer,0
+48.0,,nan,Bank transfer,0
+48.0,59.9,Month-to-month,Electronic check,0
+,29.9,Month-to-month,Electronic check,0
+24.0,59.9,Month-to-month,Electronic check,0
+1.0,89.9,Month-to-month,Electronic check,1
+24.0,59.9,Month-to-month,Electronic check,1
+36.0,119.9,One year,Mailed check,0
+1.0,29.9,One year,Mailed check,0
+36.0,59.9,Month-to-month,Bank transfer,1
+12.0,59.9,One year,Bank transfer,0
+12.0,59.9,Month-to-month,Bank transfer,0
+1.0,89.9,Month-to-month,Electronic check,1
+12.0,29.9,One year,Mailed check,0
+1.0,59.9,One year,Bank transfer,1
+12.0,89.9,Month-to-month,Mailed check,0
+36.0,,Month-to-month,Mailed check,0
+12.0,29.9,Month-to-month,Bank transfer,1
+12.0,119.9,One year,Mailed check,0
+1.0,29.9,Month-to-month,Electronic check,0
+12.0,29.9,Month-to-month,Bank transfer,0
+,59.9,One year,Electronic check,1
+36.0,29.9,Month-to-month,Bank transfer,0
+24.0,119.9,Month-to-month,Mailed check,0
+36.0,29.9,Month-to-month,Electronic check,0
+12.0,59.9,One year,Mailed check,0
+48.0,89.9,Two year,Mailed check,1
+48.0,29.9,One year,Bank transfer,1
+12.0,29.9,One year,Mailed check,1
+48.0,59.9,One year,Electronic check,0
+36.0,89.9,nan,Bank transfer,0
+36.0,29.9,Month-to-month,Mailed check,0
+,89.9,One year,Mailed check,1
+24.0,29.9,One year,Mailed check,0
+48.0,29.9,Month-to-month,Electronic check,0
+12.0,89.9,Two year,Electronic check,0
+12.0,89.9,Month-to-month,Bank transfer,0
+12.0,29.9,One year,Mailed check,0
+12.0,119.9,Month-to-month,Mailed check,0
+24.0,89.9,nan,Bank transfer,0
+24.0,89.9,nan,Bank transfer,0
+24.0,89.9,Month-to-month,Mailed check,1
+24.0,,Two year,Bank transfer,1
+24.0,29.9,Two year,Bank transfer,0
+24.0,89.9,Month-to-month,Electronic check,0
+24.0,,Month-to-month,Bank transfer,1
+36.0,59.9,Month-to-month,Bank transfer,1
+12.0,29.9,Month-to-month,Bank transfer,0
+,59.9,Month-to-month,Electronic check,0
+48.0,89.9,Month-to-month,Bank transfer,0
+24.0,29.9,Month-to-month,Bank transfer,0
+24.0,59.9,Month-to-month,Mailed check,0
+,59.9,Month-to-month,Electronic check,1
+,59.9,Two year,Mailed check,0
+36.0,89.9,One year,Mailed check,0
+1.0,29.9,Month-to-month,Bank transfer,0
+,119.9,One year,Mailed check,1
+,29.9,Month-to-month,Mailed check,0
+12.0,29.9,Month-to-month,Mailed check,0
+12.0,119.9,Month-to-month,Bank transfer,0
+48.0,29.9,Month-to-month,Bank transfer,1
+1.0,,Month-to-month,Electronic check,0
+,119.9,One year,Electronic check,0
+48.0,29.9,Month-to-month,Bank transfer,0
+1.0,119.9,Month-to-month,Mailed check,0
+24.0,89.9,One year,Mailed check,0
+1.0,89.9,Month-to-month,Electronic check,0
+,89.9,One year,Electronic check,1
+,,Month-to-month,Bank transfer,1
+36.0,29.9,Month-to-month,Bank transfer,0
+1.0,29.9,One year,Mailed check,0
+12.0,29.9,Two year,Electronic check,0
+1.0,89.9,Month-to-month,Electronic check,0
+,59.9,Month-to-month,Mailed check,0
+12.0,89.9,nan,Mailed check,0
+36.0,59.9,One year,Bank transfer,0
+24.0,89.9,One year,Electronic check,0
+1.0,59.9,Two year,Mailed check,0
+1.0,59.9,Month-to-month,Electronic check,0
+36.0,29.9,Month-to-month,Mailed check,0
+48.0,59.9,One year,Electronic check,0
+1.0,89.9,Month-to-month,Electronic check,0
+12.0,59.9,One year,Bank transfer,0
+48.0,29.9,One year,Bank transfer,0
+36.0,29.9,One year,Electronic check,1
+24.0,,Two year,Mailed check,0
+,89.9,Month-to-month,Bank transfer,0
+48.0,59.9,Month-to-month,Mailed check,0
+12.0,29.9,Month-to-month,Mailed check,0
+12.0,59.9,Month-to-month,Electronic check,0
+24.0,29.9,One year,Electronic check,0
+24.0,29.9,One year,Mailed check,0
+24.0,29.9,One year,Electronic check,0
+1.0,59.9,Two year,Bank transfer,1
+1.0,59.9,Month-to-month,Mailed check,1
+,59.9,Two year,Mailed check,0
+,59.9,Month-to-month,Electronic check,0
+12.0,119.9,Month-to-month,Bank transfer,1
+1.0,59.9,Two year,Bank transfer,1
+12.0,89.9,nan,Electronic check,0
+,59.9,Month-to-month,Bank transfer,0
