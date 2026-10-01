@@ -1,0 +1,34 @@
+{
+  "lab_name": "Lab 08: Text Mining and Sentiment Classification",
+  "dataset_file": "customer_feedback_sentiment_full.csv",
+  "student_dataset_file": "customer_feedback_sentiment.csv",
+  "source_dataset": "Wisesight Sentiment Corpus",
+  "source_repository": "https://github.com/PyThaiNLP/wisesight-sentiment",
+  "source_license": "CC0-1.0",
+  "language": "Thai",
+  "task": "Binary sentiment classification",
+  "included_original_labels": ["pos", "neg"],
+  "mapped_labels": {
+    "pos": "positive",
+    "neg": "negative"
+  },
+  "master_samples_per_class": 2000,
+  "student_samples_per_class": 400,
+  "minimum_character_count": 10,
+  "random_state_master": 42,
+  "random_state_student": 42,
+  "text_preprocessing_by_instructor": [
+    "trim whitespace",
+    "remove blank rows",
+    "deduplicate exact review text",
+    "filter texts shorter than 10 characters"
+  ],
+  "text_preprocessing_left_for_students": [
+    "lowercase",
+    "remove HTML",
+    "remove URL",
+    "remove email",
+    "remove special characters",
+    "normalize whitespace"
+  ]
+}
